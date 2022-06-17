@@ -1,0 +1,185 @@
+Faça um algoritmo para fazer café.
+- Pegar o bule no armário da cozinha
+- Leva o bule até a pia da cozinha
+- abrir a bica da pia
+- Pega uma esponja e molhar com a água que que está saindo da bica
+da pia
+- Fecha a bica da pia
+- Pegar um detergente e derrama o líquido dentro dele em cima da
+esponja
+- Abrir a bica da pia e molhar o bule com água que sai da bica.
+- Pega a esponja com detergente e passa no bule todo. Por dentro e por
+fora.
+- Abrir a bica da pia
+- Colocar o bule debaixo da água da bica da pia
+- Tirar o todo o sabão do bule com a água da pia.
+- Colocar a esponja no recipiente em cima da pia
+- Com o bule ainda em mãos, encher o mesmo com água até a metade
+- Fecha a bica da pia e com o mesmo ainda em mãos
+- Levar o bule até o fogão a gás
+- Pegar o coador de pano que está junto com o escorredor de talher em
+cima da pia do lado direito
+- Levar o coado até a mesa que está ao lado do fogão
+- Pegar a garrafa de café que está em cima da mesa ao lado do fogão
+- Abrir a garrafa e deixar ao do esquerdo da mesa ao lado fogão
+- Pegar o pó de café que está no armário de cozinha dentro de um pote
+- Levar o pote de pó de café até a mesa da cozinha e colocar ao lado
+do coador de café que está ao lado do fogão.
+- Pegar uma colher que está na gaveta do armario cozinha
+- Abri o pote de café e pegar pó de café com a colher
+- Pega essa colher cheia de pó de café e colocar dentro do bule com
+água que está em cima do fogão
+- Abri o armário da cozinha
+- pega o fósforo dentro armário
+- Fecha o armário da cozinha
+- Levar a caixa de fósforo para mesa ao lado do fogão
+- Abri a caixa de fósforo
+- pegar um palito de fósforo
+- Girar o botão do fogão para baixo que está na frente do fogão e que
+está com o bule cheio de água e pó de café
+- Riscar o fósforo na lateral da caixa e levar até a boca que está com o
+botão virado para baixo com o bule em cima
+- O fogo da boca fogao acenderá
+- Deixe o bule em cima da boca do fogão por 15 minutos.
+- Quando a água com café que está dentro do bule começar a ferver
+- Gire o botão da boca do fogão para o lado que estava antes, para a
+pagar o fogo
+- Pegar o coado colocar na parte de cima da boca da garrafa aberta
+- Despejar aos poucos o líquido dentro dentro coado
+- O líquido cairá dentro da garrafa.
+- Depois fechar a garrafa de café
+- Deixa a garrafa de café ao lado esquerdo em cima da mesa
+- Pegar o bule com o coado e levar até a pia
+- Abrir a bica da pia e levar com a esponja o bule
+- E com a água da bica ainda aberta, lavar o coado.
+- Colocar o coador para secar junto com os talheres em cima da pia
+- Tira o sabão bule com a água da bica e coloca de cabeça para baixo
+ao lado do escorredor de talher que está em cima da pia.
+- Fecha a bica da pia
+- E seca a pia com um pano que fica ao lado esquerdo em cima da pia
+- Depois torcer o pano e colocar novamente ao lado esquerdo da pia.
+- Faça um algoritmo para fritar um ovo.
+- Ir até o fogão que fica na cozinha
+- abrir a tampa da boca do fogão
+- pegar a frigideira que fica dentro da boca do fogão
+- Ir até a pia da cozinha
+- abrir a bica da pia
+- colocar a frigideira em baixa da bica aberta e que está saindo água
+- Pegar a esponja que está ao lado esquerda em cima da pia
+- Molhar a esponja que está caindo água da bica aberta
+- Fechar a bica da pia
+- Pegar o detergente ao lado esquerdo da pia
+- Abrir o detergente e colocar o líquido dele na esponja que está cima da pia
+do lado esquerdo
+- Fechar o detergente
+- Pegar a esponja do lado esquerda e passar em toda frigideira e deixar a
+frigideira dentro da pia
+- Abrir a bica da pia e colocar a frigideira embaixo d’água para tirar o sabão da
+frigideira.
+- Pega a frigideira levar até o fogão
+- Colocar a frigideira em cima da boca do lado direito do fogão
+- Ir até a geladeira abri a geladeira e pegar o ovo que está dentro da geladeira
+- Fechar a geladeira e ir até a mesa ao lado do fogão
+- Colocar o ovo ao lado direito da mesa próximo ao fogão
+- Pegar o óleo que está ao lado esquerdo da mesa
+- Abrir o óleo e despejar um pouco do líquido dentro da frigideira
+- Pegar o fósforo que está em cima da tampa de vidro do fogão
+- Abrir a caixa e pegar um palito de fósforo
+- Virar para baixo o botão da parte da frente do fogão
+- Pegar o palito de fósforo risca na lateral da caixa e colocar na boca do fogão
+que está com a tampa virada para baixo.
+- O fogo irá acender
+- Pegar o ovo em cima da mesa
+- bater devagar na lateral do fogão até a casca do ovo rachar um pouco
+- Depois que rachar, quebrar a casca com as pontas dos dedos, em cima da
+frigideira, onde está o fogo aceso.
+- A clara e a gema cairá dentro da frigideira
+- Esperar uns 5 minutos e desligar a boca do fogão aceso, virando a tampa do
+fogão para cima.
+- Abrir o saleiro e pegar na ponta dos dedos, um pouco de sal e jogar o
+mesmo, em cima do ovo frito, dentro da frigideira.
+- Pegar a casca do ovo em cima da mesa e jogar dentro da lata de lixo ao lado
+fogão.
+- Abri o armário da cozinha e pegar a tampa da frigideira que está dentro do
+armário de cozinha que fica em frente ao fogão na outra parede
+- Fechar o armário de cozinha e ir até o fogão com a tampa na mão e colocar
+em cima da frigideira, para não cair sujeira em cima da ovo frito,
+- Faça um algoritmo para zerar uma fila de banco.
+- Contratar um funcionário para ficar um mês anotando em um tablet o
+comportamento do cliente dentro da agência bancária e os dias que a
+agência fica com mais fila
+- Depois pegar esses dados que foram registrados no tablet pelo funcionário
+- Analisar junto com os diretores do banco os dados e verificar qual é o motivo
+da fila e caso seja falta de caixa eletrônico, colocar mais caixa eletrônico
+- Caso o problema seja falta de funcionário para atender os clientes idosos,
+pessoas com deficiência e pessoas que não saibam usar o caixa eletrônico,
+contratar mais funcionário para atender esses grupos de pessoas.
+- Faça um algoritmo para guardar livros dentro de uma caixa.
+- Pegarei no supermercado uma caixa de papelão de tamanho grande
+- Levarei para casa, passarei um pano limpo na mesma para tirar a poeira
+- Depois pegarei essa caixa de papelão colocarei ao lado direito da minha
+cama, próximo a cabeceira da cama
+- Depois pegarei os meus 10 livros que estão no chão canto esquerdo da
+minha estante
+- Levarei os meus livros até o quarto onde está a caixa
+- Colocarei os livros no chão em frente a caixa
+- Pegarei os 2 livros da letra A colocarei no fundo caixa
+- Depois pegarei 2 livros da letra B e colocarei em cima da letra A
+- Depois pegarei 2 livros da letra C e colocarei em cima da letra B
+- Depois pegarei 2 livros da letra P e colocarei em cima da letra C
+- Depois pegarei 2 livro da letra R e colocarei em cima da letra P
+- E por último pegarei dos livros finos da letra F e G e colocarei na frente dos
+livros das letras A, B, C, P , para não sair da arrumação.
+Algoritmo exemplo
+- Criar algoritmo de levantar e ir preparar o café da manhã
+- Abrir os olhos
+- Verificar as horas
+- Se estiver na hora de levantar
+- Tirar a coberta de cima de si mesma
+- Sentar na cama
+- Colocar os pés para fora da cama pelo seu lado
+esquerdo
+- Levantar da cama
+- Andar até a porta do quarto
+- Segurar a maçaneta da porta
+- Empurrar a maçaneta da porta para baixo
+- Abrir a porta
+- Sair do quarto
+- Ir até o banheiro
+- Pegar a pasta de dente
+- Pegar a escova de dente
+- Abrir pela tampa a pasta de dente
+- Colocar um pouco do conteúdo da pasta de dente nas
+cerda da escova de dente
+- Abrir um pouco a torneira da pia até sair uma leve
+corrente de água
+- Colocar a parte das cerdas da escova de dente com
+pasta em baixo da leve corrente de água que sai da
+torneira por 3 segundos
+- Tirar a escova da corrente de água
+- Desligar a torneira
+- Levar a parte das cerdas da escova de dentes até a
+região dos dentes
+- Fazer a higiene bucal
+- Guardar a escova de dentes no local apropriado
+- Ir até a cozinha
+- Verificar se tem água na cafeteira
+- Se tiver água o suficiente para fazer café
+- Colocar pó de café no respectivo lugar
+dentro da cafeteira, o equivalente a 2
+xícaras
+- Ligar a cafeteira
+- Esperar cafeteira fazer o café
+- Quando o café estiver pronto, tomar o café
+- Se não tiver água o suficiente para fazer café
+- Colocar água o suficiente para 2 xícaras de
+café
+- Colocar pó de café no respectivo lugar
+dentro da cafeteira, o equivalente a 2
+xícaras
+- Ligar a cafeteira
+- Esperar cafeteira fazer o café
+- Quando o café estiver pronto, tomar o café
+- Se não estiver na hora de levantar
+- Virar para o outro lado
+- Voltar a dormir
